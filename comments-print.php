@@ -1,5 +1,5 @@
 <?php 
-// it is print all comments
+
 include "header.php";
 //include "left-menu.php";
 $anno_margin=30;
