@@ -1,3 +1,3 @@
 db = marmohomes dev
 user = marmohomes dev
-pwd = manish
+pwd = manish@123
