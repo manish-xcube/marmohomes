@@ -2,7 +2,7 @@
 //dfdsfdsfds
 include "header.php";
 //include "left-menu.php";
-$str = 'hello';
+$str = 'manish';
 $anno_margin=30;
 $chart1_categories ="";
 $chart1_series1_sum = "";
